@@ -1,0 +1,63 @@
+body {
+  background-color: rgb(245, 245, 245);
+  font-family: 'Muli', sans-serif;
+  text-align: center;
+}
+
+.card {
+  background: white;
+  padding: 30px;
+  border-radius: 4px;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  width: 75%;
+  margin: 15px auto;
+}
+
+#profile_pic {
+  width: 250px;
+  border-radius: 50%;
+}
+
+h1 {
+  color: #FC6E5E;
+  font-weight: bold;
+}
+
+h2 {
+  font-weight: bold;
+}
+
+.images {
+  width: 70%;
+}
+
+#footer {
+  font-family: 'Libre Barcode 39 Text', cursive;
+  font-size: 30px;
+}
+
+#poet {
+  font-family: 'Poiret One', cursive;
+}
+
+.description {
+  text-align: center;
+  padding: 3px 0 0 3px;
+}
+
+
+
+a:hover {
+  color: #E3F3F7;
+}
+
+a {
+  text-decoration: none;
+  color: #00B7C2;
+}
+
+li {
+  display: inline-block;
+  margin: 10px;
+}
